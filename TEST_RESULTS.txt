@@ -1,0 +1,16 @@
+test_area_independent_quadrature (test_solutions.SolutionsTest.test_area_independent_quadrature) ... ok
+test_array_reference (test_solutions.SolutionsTest.test_array_reference) ... ok
+test_atan_accuracy_and_count (test_solutions.SolutionsTest.test_atan_accuracy_and_count) ... ok
+test_file_versions (test_solutions.SolutionsTest.test_file_versions) ... ok
+test_formula_reference (test_solutions.SolutionsTest.test_formula_reference) ... ok
+test_grid_and_shots (test_solutions.SolutionsTest.test_grid_and_shots) ... ok
+test_invalid_inputs (test_solutions.SolutionsTest.test_invalid_inputs) ... ok
+test_monte_carlo_and_graph_points (test_solutions.SolutionsTest.test_monte_carlo_and_graph_points) ... ok
+test_piecewise_graph (test_solutions.SolutionsTest.test_piecewise_graph) ... ok
+test_smoothing_reference (test_solutions.SolutionsTest.test_smoothing_reference) ... ok
+test_target_boundaries (test_solutions.SolutionsTest.test_target_boundaries) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.415s
+
+OK
